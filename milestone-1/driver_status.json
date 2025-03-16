@@ -1,0 +1,802 @@
+[
+    {
+        "driver_id": "598943d8-2579-4d81-b0e4-55780c1d14a9",
+        "current_lat": 24.986831,
+        "current_lng": -72.757303,
+        "status": "offline",
+        "vehicle_type": "uber",
+        "timestamp": "2025-03-16T15:59:01.220085"
+    },
+    {
+        "driver_id": "ab552bbe-3d29-4616-a92c-57c68226f531",
+        "current_lat": -34.262599,
+        "current_lng": -87.681918,
+        "status": "available",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.220114"
+    },
+    {
+        "driver_id": "0704375a-50aa-40e5-a192-7d9d954acf92",
+        "current_lat": 65.552428,
+        "current_lng": 167.070539,
+        "status": "available",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.220136"
+    },
+    {
+        "driver_id": "ecc9aa5e-bd77-4f87-9be5-08f9e003bbdf",
+        "current_lat": 54.74367,
+        "current_lng": 11.960438,
+        "status": "available",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.220154"
+    },
+    {
+        "driver_id": "fe15f853-937d-4a77-b107-33c2290a8e9f",
+        "current_lat": 28.72454,
+        "current_lng": 8.516774,
+        "status": "on_trip",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.220171"
+    },
+    {
+        "driver_id": "18e55626-e731-4d93-906a-1e3523200712",
+        "current_lat": 26.006006,
+        "current_lng": 33.68502,
+        "status": "on_trip",
+        "vehicle_type": "uber",
+        "timestamp": "2025-03-16T15:59:01.220187"
+    },
+    {
+        "driver_id": "8555d7de-3664-426c-8ac2-f11c3d5cf38a",
+        "current_lat": 33.899954,
+        "current_lng": -79.429676,
+        "status": "offline",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.220203"
+    },
+    {
+        "driver_id": "8f57c935-92be-493d-a97e-31e3611c132b",
+        "current_lat": 11.063511,
+        "current_lng": -79.141014,
+        "status": "on_trip",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.220226"
+    },
+    {
+        "driver_id": "305fac7b-8690-443f-bf9f-de3da50ccd8b",
+        "current_lat": -53.03445,
+        "current_lng": 36.843581,
+        "status": "available",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.220245"
+    },
+    {
+        "driver_id": "6f323de1-e855-4ff6-b7be-98caaf7571b9",
+        "current_lat": 22.195601,
+        "current_lng": 155.875972,
+        "status": "on_trip",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.220262"
+    },
+    {
+        "driver_id": "1121ad62-3641-40e3-ac92-3c435cfd1b75",
+        "current_lat": -60.13357,
+        "current_lng": -33.207952,
+        "status": "en_route",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.220279"
+    },
+    {
+        "driver_id": "863c56e7-26ec-44a0-b896-80e2f2781ed5",
+        "current_lat": -83.419559,
+        "current_lng": -146.177695,
+        "status": "on_trip",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.220294"
+    },
+    {
+        "driver_id": "88fe3f14-30ea-439e-b53b-f1ddac060484",
+        "current_lat": 63.23229,
+        "current_lng": 138.043134,
+        "status": "on_trip",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.220308"
+    },
+    {
+        "driver_id": "0b915f3b-94e9-47e0-9482-cbd771019f57",
+        "current_lat": 58.747212,
+        "current_lng": -15.090134,
+        "status": "offline",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.220325"
+    },
+    {
+        "driver_id": "146cf1cc-2939-4507-982d-58e717a27dd0",
+        "current_lat": -24.286609,
+        "current_lng": -15.189371,
+        "status": "en_route",
+        "vehicle_type": "SUV",
+        "timestamp": "2025-03-16T15:59:01.220339"
+    },
+    {
+        "driver_id": "8aa602c5-c33f-4fdb-908e-55a349b2f2d7",
+        "current_lat": -43.225393,
+        "current_lng": -99.203807,
+        "status": "offline",
+        "vehicle_type": "uber",
+        "timestamp": "2025-03-16T15:59:01.220352"
+    },
+    {
+        "driver_id": "7248191e-405b-47ce-8f5c-cfe0ef170fec",
+        "current_lat": -46.162345,
+        "current_lng": 30.221009,
+        "status": "available",
+        "vehicle_type": "lyft",
+        "timestamp": "2025-03-16T15:59:01.220366"
+    },
+    {
+        "driver_id": "dc911c3e-216f-494e-91f1-9ee9956e9ccf",
+        "current_lat": -3.862886,
+        "current_lng": 73.134736,
+        "status": "offline",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.220381"
+    },
+    {
+        "driver_id": "efe35611-316d-458c-8886-764a2e159b47",
+        "current_lat": -10.849725,
+        "current_lng": -56.120634,
+        "status": "en_route",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.220397"
+    },
+    {
+        "driver_id": "6e9b4a4d-bcd0-4093-af3a-118a2f1c8f88",
+        "current_lat": -14.643215,
+        "current_lng": 122.524769,
+        "status": "on_trip",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.220411"
+    },
+    {
+        "driver_id": "74d6ef74-2f0c-4220-b1fd-e046adfdfb00",
+        "current_lat": -26.728788,
+        "current_lng": -46.204231,
+        "status": "available",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.220427"
+    },
+    {
+        "driver_id": "d24fa7dd-998f-4656-b4a2-763c4ef72335",
+        "current_lat": 38.354095,
+        "current_lng": 136.309814,
+        "status": "available",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.220442"
+    },
+    {
+        "driver_id": "214fbd70-fb57-49d1-9865-742570b06d10",
+        "current_lat": 47.518185,
+        "current_lng": -61.908668,
+        "status": "on_trip",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.220457"
+    },
+    {
+        "driver_id": "a3251060-d156-45c9-b4ea-d9222e30ba81",
+        "current_lat": 86.135788,
+        "current_lng": -70.890552,
+        "status": "on_trip",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.220471"
+    },
+    {
+        "driver_id": "4f2a0cca-19c8-4371-92e2-eca2c03df6dd",
+        "current_lat": -75.404935,
+        "current_lng": -121.534672,
+        "status": "en_route",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.220486"
+    },
+    {
+        "driver_id": "f24316bd-ce46-4c31-b796-f4d63c83bed8",
+        "current_lat": 36.386426,
+        "current_lng": 40.381532,
+        "status": "offline",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.220501"
+    },
+    {
+        "driver_id": "410dbf1d-922d-4c84-8248-78774f3a4a45",
+        "current_lat": -67.81983,
+        "current_lng": -4.770915,
+        "status": "available",
+        "vehicle_type": "SUV",
+        "timestamp": "2025-03-16T15:59:01.220515"
+    },
+    {
+        "driver_id": "55b03aeb-86f9-44f2-985d-e3fe88367c45",
+        "current_lat": 8.743239,
+        "current_lng": -89.721791,
+        "status": "available",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.220531"
+    },
+    {
+        "driver_id": "6788893c-5f3d-45bd-ab49-5e9b278c2564",
+        "current_lat": 43.276297,
+        "current_lng": 15.728932,
+        "status": "available",
+        "vehicle_type": "lyft",
+        "timestamp": "2025-03-16T15:59:01.220550"
+    },
+    {
+        "driver_id": "144b0708-101f-46d5-8289-e61733e5834a",
+        "current_lat": -44.507357,
+        "current_lng": -20.499215,
+        "status": "available",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.220568"
+    },
+    {
+        "driver_id": "4745e163-b38f-4a93-a249-202336c8c4ef",
+        "current_lat": 73.884522,
+        "current_lng": -24.184538,
+        "status": "on_trip",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.220585"
+    },
+    {
+        "driver_id": "5bd85d8f-44ae-4842-84b8-f48272e616c7",
+        "current_lat": -80.144735,
+        "current_lng": -83.566021,
+        "status": "offline",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.220601"
+    },
+    {
+        "driver_id": "6ac0bfd8-3755-454c-858e-9c5de95dab6b",
+        "current_lat": -54.262764,
+        "current_lng": -61.120669,
+        "status": "offline",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.220620"
+    },
+    {
+        "driver_id": "cefea4d4-7273-426d-87db-d42dd840c43c",
+        "current_lat": 66.034957,
+        "current_lng": 125.389794,
+        "status": "on_trip",
+        "vehicle_type": "lyft",
+        "timestamp": "2025-03-16T15:59:01.227813"
+    },
+    {
+        "driver_id": "89295389-c35e-43d3-ace0-322734117196",
+        "current_lat": -56.107376,
+        "current_lng": -133.856249,
+        "status": "en_route",
+        "vehicle_type": "SUV",
+        "timestamp": "2025-03-16T15:59:01.227854"
+    },
+    {
+        "driver_id": "7b66ef53-f8b8-4e08-bc78-02f4ef9332d3",
+        "current_lat": 27.231795,
+        "current_lng": -55.902197,
+        "status": "en_route",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.227874"
+    },
+    {
+        "driver_id": "909cdc84-d3e5-4a01-8e13-5925ffc845cd",
+        "current_lat": -68.375207,
+        "current_lng": -169.979171,
+        "status": "en_route",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.227892"
+    },
+    {
+        "driver_id": "67e6eed8-670f-4226-93c5-39bd82fabc02",
+        "current_lat": -46.257696,
+        "current_lng": -126.871961,
+        "status": "offline",
+        "vehicle_type": "SUV",
+        "timestamp": "2025-03-16T15:59:01.227909"
+    },
+    {
+        "driver_id": "f82f1dc0-bce1-49e9-9840-7a612f2d506d",
+        "current_lat": 35.888173,
+        "current_lng": 157.40599,
+        "status": "en_route",
+        "vehicle_type": "lyft",
+        "timestamp": "2025-03-16T15:59:01.227926"
+    },
+    {
+        "driver_id": "b29bacd9-dd04-43cf-a206-8115ee567f66",
+        "current_lat": 41.07967,
+        "current_lng": -156.132072,
+        "status": "offline",
+        "vehicle_type": "SUV",
+        "timestamp": "2025-03-16T15:59:01.227943"
+    },
+    {
+        "driver_id": "6197843f-32d7-435f-9bef-6ec58cd4fcb4",
+        "current_lat": 65.614408,
+        "current_lng": 169.085986,
+        "status": "on_trip",
+        "vehicle_type": "uber",
+        "timestamp": "2025-03-16T15:59:01.227960"
+    },
+    {
+        "driver_id": "9ddf36a8-ce13-4751-97ae-1dd923d6e978",
+        "current_lat": -29.177476,
+        "current_lng": 50.309108,
+        "status": "on_trip",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.227978"
+    },
+    {
+        "driver_id": "6e7466c5-ae1d-497b-a129-5c7a35f1bc31",
+        "current_lat": -22.188342,
+        "current_lng": -62.422903,
+        "status": "en_route",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.227994"
+    },
+    {
+        "driver_id": "d2e1a1c5-dca8-4606-a73c-345c5848e91c",
+        "current_lat": -9.174959,
+        "current_lng": 139.611685,
+        "status": "available",
+        "vehicle_type": "SUV",
+        "timestamp": "2025-03-16T15:59:01.228011"
+    },
+    {
+        "driver_id": "28d22f52-6b1f-4db9-b71a-124c7916e332",
+        "current_lat": 61.382795,
+        "current_lng": -53.629871,
+        "status": "on_trip",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.228026"
+    },
+    {
+        "driver_id": "26b0d938-01a2-4e2a-a11e-ae75375f5a29",
+        "current_lat": 46.890923,
+        "current_lng": -171.057312,
+        "status": "available",
+        "vehicle_type": "lyft",
+        "timestamp": "2025-03-16T15:59:01.228044"
+    },
+    {
+        "driver_id": "c2e18268-cbd4-4c75-9485-e5f3ae715549",
+        "current_lat": 37.859109,
+        "current_lng": -26.705249,
+        "status": "offline",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.228059"
+    },
+    {
+        "driver_id": "50a94e65-87dd-4244-ad8e-30c9896faf71",
+        "current_lat": 37.322527,
+        "current_lng": 179.327691,
+        "status": "on_trip",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.228076"
+    },
+    {
+        "driver_id": "c50f3a30-875c-4159-b75e-238344e25ca3",
+        "current_lat": 89.238257,
+        "current_lng": 116.897942,
+        "status": "offline",
+        "vehicle_type": "lyft",
+        "timestamp": "2025-03-16T15:59:01.228094"
+    },
+    {
+        "driver_id": "e92aecc6-8f3d-4036-a8e3-6ec99ce2f131",
+        "current_lat": 27.202357,
+        "current_lng": -28.520335,
+        "status": "offline",
+        "vehicle_type": "lyft",
+        "timestamp": "2025-03-16T15:59:01.228111"
+    },
+    {
+        "driver_id": "8c8af1ba-7dad-4e8a-91d2-4e29c444be51",
+        "current_lat": 66.118232,
+        "current_lng": 126.481995,
+        "status": "on_trip",
+        "vehicle_type": "lyft",
+        "timestamp": "2025-03-16T15:59:01.228127"
+    },
+    {
+        "driver_id": "80911ff6-2698-4c93-bb28-10853b062eb0",
+        "current_lat": -55.066138,
+        "current_lng": -23.318204,
+        "status": "offline",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.228145"
+    },
+    {
+        "driver_id": "d89f94c6-4e8c-4ffa-bd65-9880d0fe8e37",
+        "current_lat": 52.630778,
+        "current_lng": 120.325937,
+        "status": "available",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.228161"
+    },
+    {
+        "driver_id": "3bbce96e-c250-49c9-b949-5e91e803a007",
+        "current_lat": -11.589386,
+        "current_lng": -113.556109,
+        "status": "on_trip",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.228179"
+    },
+    {
+        "driver_id": "215facde-b15d-4841-a677-8e33158cf426",
+        "current_lat": 81.419648,
+        "current_lng": 10.058513,
+        "status": "on_trip",
+        "vehicle_type": "SUV",
+        "timestamp": "2025-03-16T15:59:01.228196"
+    },
+    {
+        "driver_id": "59f69740-047d-4a6b-a982-fa9633900abc",
+        "current_lat": 37.146045,
+        "current_lng": -83.219962,
+        "status": "offline",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.228211"
+    },
+    {
+        "driver_id": "02a1c706-350a-4fed-89f9-ae0ebf4b633a",
+        "current_lat": 82.37257,
+        "current_lng": -178.442523,
+        "status": "available",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.228229"
+    },
+    {
+        "driver_id": "c27983ab-1e48-4213-b413-59100984b493",
+        "current_lat": 82.051428,
+        "current_lng": -100.054603,
+        "status": "on_trip",
+        "vehicle_type": "lyft",
+        "timestamp": "2025-03-16T15:59:01.228246"
+    },
+    {
+        "driver_id": "ed67dacf-dc1e-46ec-af73-e3685fff742a",
+        "current_lat": -80.903444,
+        "current_lng": 120.043458,
+        "status": "offline",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.228263"
+    },
+    {
+        "driver_id": "39b5520b-f4f2-4809-b00f-72489e698443",
+        "current_lat": -52.26733,
+        "current_lng": 86.689058,
+        "status": "on_trip",
+        "vehicle_type": "uber",
+        "timestamp": "2025-03-16T15:59:01.228279"
+    },
+    {
+        "driver_id": "12b6fbb8-1d3a-4697-a70c-9fa0d60e7fe0",
+        "current_lat": -32.219875,
+        "current_lng": 153.411975,
+        "status": "on_trip",
+        "vehicle_type": "uber",
+        "timestamp": "2025-03-16T15:59:01.228295"
+    },
+    {
+        "driver_id": "f2ef12c3-1a77-4cd0-983c-31bd694dcfb2",
+        "current_lat": -70.738138,
+        "current_lng": -118.042785,
+        "status": "offline",
+        "vehicle_type": "lyft",
+        "timestamp": "2025-03-16T15:59:01.228311"
+    },
+    {
+        "driver_id": "be484b72-e8a2-4747-b14d-713a54cd5798",
+        "current_lat": -52.56294,
+        "current_lng": -148.622581,
+        "status": "available",
+        "vehicle_type": "lyft",
+        "timestamp": "2025-03-16T15:59:01.228327"
+    },
+    {
+        "driver_id": "739e1f4e-938d-407d-abf7-bfa917e859d9",
+        "current_lat": 39.57038,
+        "current_lng": -131.25883,
+        "status": "available",
+        "vehicle_type": "SUV",
+        "timestamp": "2025-03-16T15:59:01.228343"
+    },
+    {
+        "driver_id": "9a200956-d2c0-426b-8683-9338f4a3b2c5",
+        "current_lat": 16.141156,
+        "current_lng": -7.892666,
+        "status": "on_trip",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.228360"
+    },
+    {
+        "driver_id": "634ae0a1-5f31-4389-a057-c160ac9339e3",
+        "current_lat": -58.802348,
+        "current_lng": -37.560553,
+        "status": "en_route",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.228378"
+    },
+    {
+        "driver_id": "f1b592e6-93d1-4dba-bfb0-4e5923e04203",
+        "current_lat": 51.729985,
+        "current_lng": -78.630942,
+        "status": "offline",
+        "vehicle_type": "uber",
+        "timestamp": "2025-03-16T15:59:01.228394"
+    },
+    {
+        "driver_id": "fc93d2c1-19f0-4e2c-bcfc-6cb1d85203bc",
+        "current_lat": 29.682237,
+        "current_lng": -110.435978,
+        "status": "on_trip",
+        "vehicle_type": "lyft",
+        "timestamp": "2025-03-16T15:59:01.228410"
+    },
+    {
+        "driver_id": "fa189ce0-a338-4f60-bc5b-68ab2c85d5d9",
+        "current_lat": 50.416756,
+        "current_lng": 128.663012,
+        "status": "available",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.228427"
+    },
+    {
+        "driver_id": "2ba99e70-ab05-4852-a918-565ea823701a",
+        "current_lat": -10.935948,
+        "current_lng": 118.105197,
+        "status": "on_trip",
+        "vehicle_type": "SUV",
+        "timestamp": "2025-03-16T15:59:01.228444"
+    },
+    {
+        "driver_id": "e216ec08-6743-482c-af61-174f3bf5bd5d",
+        "current_lat": 53.310613,
+        "current_lng": 15.937155,
+        "status": "en_route",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.228460"
+    },
+    {
+        "driver_id": "1c8fa5fe-3a1d-4167-8ef4-851220363cba",
+        "current_lat": -67.765829,
+        "current_lng": 169.580919,
+        "status": "en_route",
+        "vehicle_type": "lyft",
+        "timestamp": "2025-03-16T15:59:01.228477"
+    },
+    {
+        "driver_id": "eb1bac27-2d4c-4c9e-bde4-e6b7c366678d",
+        "current_lat": 41.039633,
+        "current_lng": -64.959235,
+        "status": "on_trip",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.228493"
+    },
+    {
+        "driver_id": "8e21a590-363f-43bd-84f9-ef28d5d01006",
+        "current_lat": -13.735302,
+        "current_lng": 149.324012,
+        "status": "offline",
+        "vehicle_type": "lyft",
+        "timestamp": "2025-03-16T15:59:01.228510"
+    },
+    {
+        "driver_id": "54e8b308-3410-40a2-863c-201375ba1623",
+        "current_lat": 9.62179,
+        "current_lng": 116.402486,
+        "status": "on_trip",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.228527"
+    },
+    {
+        "driver_id": "2f04e7e1-9c30-45e3-9b09-c8bdeee1e045",
+        "current_lat": 33.656617,
+        "current_lng": -93.532908,
+        "status": "on_trip",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.228544"
+    },
+    {
+        "driver_id": "04c04192-dd51-41d0-8820-1ea221815f79",
+        "current_lat": -3.418335,
+        "current_lng": 23.683228,
+        "status": "offline",
+        "vehicle_type": "SUV",
+        "timestamp": "2025-03-16T15:59:01.228561"
+    },
+    {
+        "driver_id": "7f6b74a7-6b6f-4195-ac7f-d1bc5bedec91",
+        "current_lat": -45.647018,
+        "current_lng": -149.489146,
+        "status": "on_trip",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.228580"
+    },
+    {
+        "driver_id": "c32f2f6d-aa9a-4486-be3e-dd25b8f436d6",
+        "current_lat": 10.804639,
+        "current_lng": -80.396248,
+        "status": "offline",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.228597"
+    },
+    {
+        "driver_id": "bee4cb07-e198-4ffe-ba2c-3f63179a2900",
+        "current_lat": -12.746185,
+        "current_lng": 144.918648,
+        "status": "available",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.228614"
+    },
+    {
+        "driver_id": "3cbf1006-02f2-4c56-87c0-07329a26d8c1",
+        "current_lat": -21.878547,
+        "current_lng": -1.904801,
+        "status": "available",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.228645"
+    },
+    {
+        "driver_id": "2aeb9771-81b4-48d8-a54f-087cba6a7afd",
+        "current_lat": 33.694683,
+        "current_lng": 82.897112,
+        "status": "offline",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.228672"
+    },
+    {
+        "driver_id": "9e15b624-1ab6-44c8-9603-73b92db13c77",
+        "current_lat": 4.369619,
+        "current_lng": -81.915448,
+        "status": "on_trip",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.228689"
+    },
+    {
+        "driver_id": "b86e739c-e13a-42d9-8736-a0dd25738298",
+        "current_lat": 2.536435,
+        "current_lng": -66.16773,
+        "status": "on_trip",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.228705"
+    },
+    {
+        "driver_id": "e4003b80-60d7-4975-9442-46d920272b38",
+        "current_lat": -22.129954,
+        "current_lng": -140.920024,
+        "status": "en_route",
+        "vehicle_type": "uber",
+        "timestamp": "2025-03-16T15:59:01.228722"
+    },
+    {
+        "driver_id": "f66abbc7-5828-489a-8beb-936df6a0b140",
+        "current_lat": 4.296627,
+        "current_lng": -1.606794,
+        "status": "offline",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.228739"
+    },
+    {
+        "driver_id": "1bb71c76-f112-4f37-a456-9a9e7db8d40e",
+        "current_lat": 51.56675,
+        "current_lng": -148.790823,
+        "status": "on_trip",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.228756"
+    },
+    {
+        "driver_id": "8c11e028-837b-439d-ac89-f356482435c8",
+        "current_lat": 56.809411,
+        "current_lng": -136.696103,
+        "status": "on_trip",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.228772"
+    },
+    {
+        "driver_id": "628035e0-b225-4278-8ac3-9dad6ba816e8",
+        "current_lat": 52.418613,
+        "current_lng": 124.829892,
+        "status": "en_route",
+        "vehicle_type": "uber",
+        "timestamp": "2025-03-16T15:59:01.228789"
+    },
+    {
+        "driver_id": "4e58eb0b-b8e8-4fdf-b5aa-cf075cf1b319",
+        "current_lat": 32.199278,
+        "current_lng": 16.844673,
+        "status": "en_route",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.228805"
+    },
+    {
+        "driver_id": "e52ec234-0c0d-422e-8a41-393f46b0f33a",
+        "current_lat": -14.04671,
+        "current_lng": 128.246853,
+        "status": "available",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.228821"
+    },
+    {
+        "driver_id": "bc371c89-c6ef-4c0d-ba45-1e740e9c784e",
+        "current_lat": 48.419995,
+        "current_lng": 60.904611,
+        "status": "en_route",
+        "vehicle_type": "uber",
+        "timestamp": "2025-03-16T15:59:01.228838"
+    },
+    {
+        "driver_id": "5b151832-2ae8-44a5-b6c1-9d7a5d2ef115",
+        "current_lat": -61.975726,
+        "current_lng": 57.48119,
+        "status": "offline",
+        "vehicle_type": "sedan",
+        "timestamp": "2025-03-16T15:59:01.228856"
+    },
+    {
+        "driver_id": "92dfba85-8c57-48bc-aa54-a73c44fa3aa3",
+        "current_lat": 59.807393,
+        "current_lng": -132.122997,
+        "status": "available",
+        "vehicle_type": "motorbike",
+        "timestamp": "2025-03-16T15:59:01.228878"
+    },
+    {
+        "driver_id": "f4365e4d-f565-40a7-84be-f07d301ee256",
+        "current_lat": -82.112516,
+        "current_lng": -74.657087,
+        "status": "offline",
+        "vehicle_type": "lyft",
+        "timestamp": "2025-03-16T15:59:01.228895"
+    },
+    {
+        "driver_id": "963de30a-7228-4adb-ac51-2f9b934b316d",
+        "current_lat": 72.505626,
+        "current_lng": 52.159061,
+        "status": "offline",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.228912"
+    },
+    {
+        "driver_id": "b62d1b15-2700-4ca1-8022-3016647e2c91",
+        "current_lat": 33.207603,
+        "current_lng": 139.251631,
+        "status": "on_trip",
+        "vehicle_type": "lyft",
+        "timestamp": "2025-03-16T15:59:01.228929"
+    },
+    {
+        "driver_id": "ec93ffbb-0d0d-480e-8083-8b4578f1e65b",
+        "current_lat": -12.107467,
+        "current_lng": 141.505531,
+        "status": "offline",
+        "vehicle_type": "lyft",
+        "timestamp": "2025-03-16T15:59:01.228945"
+    },
+    {
+        "driver_id": "e2d7290c-0087-486f-b6b6-ad71fa01f582",
+        "current_lat": -25.957856,
+        "current_lng": -14.425164,
+        "status": "en_route",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.228964"
+    },
+    {
+        "driver_id": "7061d323-f4f3-4b36-857b-b6f696d16e6d",
+        "current_lat": -55.663233,
+        "current_lng": -127.489231,
+        "status": "on_trip",
+        "vehicle_type": "cabify",
+        "timestamp": "2025-03-16T15:59:01.228981"
+    }
+]
