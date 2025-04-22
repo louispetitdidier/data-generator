@@ -12,7 +12,7 @@ This project showcases a real-time analytics pipeline for a ride-sharing platfor
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Streamlit** – Front-end dashboard
 - **Plotly** – Interactive charts
