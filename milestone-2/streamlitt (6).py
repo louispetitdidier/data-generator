@@ -61,7 +61,7 @@ if "pickup_time" in ride_df.columns and "dropoff_time" in ride_df.columns:
 
 # ========== BASIC ANALYTICS ==========
 if not ride_df.empty:
-    st.header("📊 Basic Analytics")
+    st.header("Basic Analytics")
 
     col1, col2, col3 = st.columns(3)
     col1.metric("Total Rides", len(ride_df))
@@ -85,7 +85,7 @@ if not ride_df.empty:
     st.plotly_chart(time_fig, use_container_width=True)
 
 # ========== INTERMEDIATE ANALYTICS ==========
-    st.header("🧮 Intermediate Analytics")
+    st.header("Intermediate Analytics")
 
     cancellation_rate = len(ride_df[ride_df["status"] == "cancelled"]) / len(ride_df) * 100
     st.metric("Cancellation Rate", f"{cancellation_rate:.2f}%")
@@ -100,12 +100,12 @@ if not ride_df.empty:
     st.plotly_chart(fig_demand_supply, use_container_width=True)
 
 # ========== ADVANCED PLACEHOLDER ==========
-    st.header("🧠 Advanced Analytics (Planned)")
-    st.info("🚧 Coming soon: anomaly detection, surge pricing zones, fraud detection.")
+    st.header("Advanced Analytics (Planned)")
+    st.info("Coming soon: anomaly detection, surge pricing zones, fraud detection.")
 
 # ========== DRIVER ANALYTICS ==========
 if not driver_df.empty:
-    st.header("🚘 Driver Analytics")
+    st.header("Driver Analytics")
 
     st.subheader("Driver Status")
     driver_status_data = driver_df["status"].value_counts().reset_index()
