@@ -27,16 +27,6 @@ An analytics platform for ride-sharing services that:
   - Driver status simulation with geo-coordinates
   - Configurable demand patterns
 
-## Technologies
-
-| Component               | Technology                          |
-|-------------------------|-------------------------------------|
-| **Data Streaming**      | Azure Event Hub                     |
-| **Stream Processing**   | Apache Spark (Structured Streaming) |
-| **Storage**             | Azure Blob Storage (Parquet)        |
-| **Dashboard**           | Streamlit + Plotly                  |
-| **Data Generation**     | Mimesis + Faker                     |
-| **Visualization**       | Plotly, Folium                      |
 
 ## Files
 | File | Purpose |
