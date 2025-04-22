@@ -156,22 +156,6 @@ if "demand_level" in ride_df.columns:
                  labels={"value": "Ride Count", "hour": "Hour of Day"})
     st.plotly_chart(fig, use_container_width=True)
 
-# --- Driver Analytics ---
-st.header("🚗 Driver Performance")
 
-# Driver Location Heatmap
-st.subheader("Driver Location Density")
-if not driver_df.empty and "current_lat" in driver_df.columns:
-    fig = px.density_mapbox(driver_df, lat="current_lat", lon="current_lng",
-                           radius=10, zoom=10,
-                           mapbox_style="stamen-terrain")
-    st.plotly_chart(fig, use_container_width=True)
 
-# Vehicle Type Efficiency
-st.subheader("Vehicle Type Efficiency")
-if "vehicle_type" in driver_df.columns and "ride_type" in ride_df.columns:
-    eff_data = ride_df.merge(driver_df, left_on="driver_id", right_on="driver_id", how="left")
-    if not eff_data.empty:
-        fig = px.box(eff_data, x="vehicle_type", y="estimate_price",
-                    color="ride_type", title="Revenue by Vehicle Type")
-        st.plotly_chart(fig, use_container_width=True)
+
