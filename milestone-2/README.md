@@ -3,7 +3,7 @@
 
 ## Overview
 
-A real-time analytics platform for ride-sharing services that:
+An analytics platform for ride-sharing services that:
 - Generates synthetic ride & driver data
 - Processes streaming data with Apache Spark
 - Stores processed data in Azure Blob Storage
@@ -11,13 +11,13 @@ A real-time analytics platform for ride-sharing services that:
 
 ## Features
 
-- **Real-time Data Pipeline**:
+- **Data Pipeline**:
   - Kafka-compatible streaming via Azure Event Hub
   - Spark Structured Streaming for processing
   - Optimized parquet storage in Azure Blob
 
 - **Interactive Dashboard**:
-  - Real-time ride demand monitoring
+  - Ride demand monitoring
   - Driver availability heatmaps
   - Revenue and cancellation analytics
   - Dynamic pricing insights
