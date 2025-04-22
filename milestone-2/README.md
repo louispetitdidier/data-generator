@@ -38,16 +38,11 @@ An analytics platform for ride-sharing services that:
 | **Data Generation**     | Mimesis + Faker                     |
 | **Visualization**       | Plotly, Folium                      |
 
-## Getting Started
+## Files
+| File | Purpose |
+|------|---------|
+| `data_generation_streama.py` | Generates synthetic ride requests and driver status data, streaming to Azure Event Hub |
+| `streamlitt.py` | Streamlit dashboard that loads processed data from Azure Blob Storage and displays interactive visualizations |
+| `requirements.txt` | Lists all Python dependencies needed to run the system |
 
-### Prerequisites
-- Azure account with Blob Storage and Event Hub
-- Python 3.9+
-- Java 11 (for Spark)
-- Docker (optional)
 
-### Installation
-```bash
-git clone https://github.com/yourusername/ride-sharing-analytics.git
-cd ride-sharing-analytics
-pip install -r requirements.txt
