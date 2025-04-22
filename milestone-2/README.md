@@ -1,9 +1,7 @@
-# 🚖 Real-Time Ride-Sharing Analytics System
+# Ride-Sharing Analytics System
 
-![System Architecture](docs/architecture.png)  
-*Real-time data pipeline for ride-sharing analytics*
 
-## 📌 Overview
+## Overview
 
 A real-time analytics platform for ride-sharing services that:
 - Generates synthetic ride & driver data
@@ -11,7 +9,7 @@ A real-time analytics platform for ride-sharing services that:
 - Stores processed data in Azure Blob Storage
 - Visualizes KPIs through an interactive Streamlit dashboard
 
-## 🌟 Features
+## Features
 
 - **Real-time Data Pipeline**:
   - Kafka-compatible streaming via Azure Event Hub
@@ -29,7 +27,7 @@ A real-time analytics platform for ride-sharing services that:
   - Driver status simulation with geo-coordinates
   - Configurable demand patterns
 
-## 🛠️ Technologies
+## Technologies
 
 | Component               | Technology                          |
 |-------------------------|-------------------------------------|
@@ -40,7 +38,7 @@ A real-time analytics platform for ride-sharing services that:
 | **Data Generation**     | Mimesis + Faker                     |
 | **Visualization**       | Plotly, Folium                      |
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Azure account with Blob Storage and Event Hub
