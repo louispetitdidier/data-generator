@@ -1,4 +1,5 @@
 streamlit
+plotly
 pandas
-pyarrow
 azure-storage-blob
+pyarrow
