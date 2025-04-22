@@ -40,8 +40,8 @@ def load_parquet_from_blob(path_prefix):
     return pd.DataFrame()
 
 # Streamlit setup
-st.set_page_config(page_title="🚖 Real-Time Ride & Driver Dashboard", layout="wide")
-st.title("🚦 Real-Time Ride & Driver Dashboard")
+st.set_page_config(page_title="Ride & Driver Dashboard", layout="wide")
+st.title("Ride & Driver Dashboard")
 
 # Load data
 ride_df = load_parquet_from_blob(RIDE_PATH)
