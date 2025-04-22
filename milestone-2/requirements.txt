@@ -3,3 +3,4 @@ plotly
 pandas
 azure-storage-blob
 pyarrow
+statsmodels
