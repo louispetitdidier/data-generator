@@ -23,7 +23,7 @@ An analytics platform for ride-sharing services that:
   - Dynamic pricing insights
 
 - **Data Generation**:
-  - Synthetic ride requests with realistic distributions
+  - Synthetic ride requests with realistic distributions using MIMESIS
   - Driver status simulation with geo-coordinates
   - Configurable demand patterns
 
