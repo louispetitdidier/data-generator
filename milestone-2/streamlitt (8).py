@@ -26,7 +26,7 @@ def load_data():
     # Azure Blob Storage config (move to secrets in production)
     blob_service_client = BlobServiceClient(
         account_url="https://iesstsabdbaa.blob.core.windows.net/",
-        credential="your_access_key_here"  # Use st.secrets in production
+        credential="yfqMW8gf8u+M5pOW33Q5gtRTFBJQXStVK4K2rlCVVzxlrRG21Sh7MVj06uExoL86Npb7HWWgxYUe+ASthUr6/g=="  # Use st.secrets in production
     )
 
     def load_parquet_from_blob(path_prefix):
